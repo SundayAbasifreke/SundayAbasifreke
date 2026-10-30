@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SundayAbasifreke but you can call me Abas
+- 👋 Hi, I’m @Abas
 - 👀 I’m interested in ...computing
 - 🌱 I’m currently learning ...quantum computimg
 - 💞️ I’m looking to collaborate on ...
